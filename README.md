@@ -41,7 +41,8 @@ When I tried to push my code to GitHub, my `git push` was rejected with an error
 ## Screenshot of the App
 
 Here is how the app looks when you start swiping an item:
-![alt text](image.png) ![alt text](image-1.png)
+Enter in the readme inside todolist
+
 ---
 
 *Note: This code was made by me for the ALU Widget Presentation assignment.*
